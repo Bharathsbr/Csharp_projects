@@ -1,0 +1,14 @@
+D:\Csharp\RPS\obj\Debug\net8.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\RPS\obj\Debug\net8.0\RPS.AssemblyInfoInputs.cache
+D:\Csharp\RPS\obj\Debug\net8.0\RPS.AssemblyInfo.cs
+D:\Csharp\RPS\obj\Debug\net8.0\RPS.csproj.CoreCompileInputs.cache
+D:\Csharp\RPS\bin\Debug\net8.0\RPS.exe
+D:\Csharp\RPS\bin\Debug\net8.0\RPS.deps.json
+D:\Csharp\RPS\bin\Debug\net8.0\RPS.runtimeconfig.json
+D:\Csharp\RPS\bin\Debug\net8.0\RPS.dll
+D:\Csharp\RPS\bin\Debug\net8.0\RPS.pdb
+D:\Csharp\RPS\obj\Debug\net8.0\RPS.dll
+D:\Csharp\RPS\obj\Debug\net8.0\refint\RPS.dll
+D:\Csharp\RPS\obj\Debug\net8.0\RPS.pdb
+D:\Csharp\RPS\obj\Debug\net8.0\RPS.genruntimeconfig.cache
+D:\Csharp\RPS\obj\Debug\net8.0\ref\RPS.dll
