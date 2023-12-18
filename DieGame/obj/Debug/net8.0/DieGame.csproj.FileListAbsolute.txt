@@ -1,0 +1,14 @@
+D:\Csharp\DieGame\bin\Debug\net8.0\DieGame.exe
+D:\Csharp\DieGame\bin\Debug\net8.0\DieGame.deps.json
+D:\Csharp\DieGame\bin\Debug\net8.0\DieGame.runtimeconfig.json
+D:\Csharp\DieGame\bin\Debug\net8.0\DieGame.dll
+D:\Csharp\DieGame\bin\Debug\net8.0\DieGame.pdb
+D:\Csharp\DieGame\obj\Debug\net8.0\DieGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\DieGame\obj\Debug\net8.0\DieGame.AssemblyInfoInputs.cache
+D:\Csharp\DieGame\obj\Debug\net8.0\DieGame.AssemblyInfo.cs
+D:\Csharp\DieGame\obj\Debug\net8.0\DieGame.csproj.CoreCompileInputs.cache
+D:\Csharp\DieGame\obj\Debug\net8.0\DieGame.dll
+D:\Csharp\DieGame\obj\Debug\net8.0\refint\DieGame.dll
+D:\Csharp\DieGame\obj\Debug\net8.0\DieGame.pdb
+D:\Csharp\DieGame\obj\Debug\net8.0\DieGame.genruntimeconfig.cache
+D:\Csharp\DieGame\obj\Debug\net8.0\ref\DieGame.dll
